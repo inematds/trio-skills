@@ -1,0 +1,5 @@
+# perfil leve — ajuste pequeno, protótipo, tela: alinhar rápido e testar
+# formato: <pacote>/<pasta da skill em pacotes/>   (comandos: cmd:<arquivo .md de pacotes/addy-agent-skills/.claude/commands>)
+pocock/skills/productivity/grill-me
+pocock/skills/productivity/grilling
+pocock/skills/engineering/tdd

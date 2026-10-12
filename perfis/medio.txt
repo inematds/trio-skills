@@ -1,0 +1,12 @@
+# perfil medio — recurso novo: especificar, planejar, construir em fatias, revisar
+pocock/skills/productivity/grill-me
+pocock/skills/productivity/grilling
+addy/skills/spec-driven-development
+addy/skills/planning-and-task-breakdown
+addy/skills/incremental-implementation
+addy/skills/test-driven-development
+addy/skills/code-review-and-quality
+cmd:spec.md
+cmd:plan.md
+cmd:build.md
+cmd:review.md
