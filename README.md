@@ -18,6 +18,8 @@ Os três pacotes de skills de engenharia mais usados com agentes de IA, **clonad
 
 Guia completo (PT/EN/ES): **https://inematds.github.io/trio-skills/guia/**
 
+▶️ **Vídeo técnico (passo a passo, 4 min 36):** https://www.youtube.com/watch?v=QiKrfsTcRi0
+
 ## Por que este projeto
 
 Instalar os três inteiros em todo projeto é o erro mais comum: skill demais ocupa contexto, dispara sem você querer e **nomes repetidos colidem** (o agente escolhe uma e você não sabe qual). Aqui você:

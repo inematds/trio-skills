@@ -18,6 +18,8 @@ Los tres paquetes de skills de ingeniería más usados con agentes de IA, **clon
 
 Guía completa (PT/EN/ES): **https://inematds.github.io/trio-skills/guia/es/**
 
+▶️ **Video técnico (paso a paso, 4 min 36, en portugués):** https://www.youtube.com/watch?v=QiKrfsTcRi0
+
 ## Por qué existe este proyecto
 
 Instalar los tres paquetes completos en cada proyecto es el error más común: demasiadas skills ocupan contexto, se activan sin que lo quieras y **los nombres repetidos entran en conflicto** (el agente elige una y no sabes cuál). Aquí puedes:

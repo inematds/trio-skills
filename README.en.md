@@ -18,6 +18,8 @@ The three most widely used engineering skill packages for AI agents, **cloned, o
 
 Complete guide (PT/EN/ES): **https://inematds.github.io/trio-skills/guia/en/**
 
+▶️ **Technical video (step by step, 4 min 36, in Portuguese):** https://www.youtube.com/watch?v=QiKrfsTcRi0
+
 ## Why this project
 
 Installing all three packages in every project is the most common mistake: too many skills take up context, trigger when you don’t want them to, and **duplicate names collide** (the agent picks one, and you don’t know which). Here you can:
